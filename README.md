@@ -1,7 +1,8 @@
 # xxfpm
 FCGI Process Manager
 
-这是一个我在2011年写的跨平台FastCGI进程管理器，可用作php的进程管理。
+fork from xxfpm 
+修改线程使用c++ thread
 
 ## 使用方式
 
